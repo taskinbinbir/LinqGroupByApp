@@ -1,0 +1,15 @@
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\bin\Debug\net6.0\LinqGroupByApp.exe
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\bin\Debug\net6.0\LinqGroupByApp.deps.json
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\bin\Debug\net6.0\LinqGroupByApp.runtimeconfig.json
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\bin\Debug\net6.0\LinqGroupByApp.dll
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\bin\Debug\net6.0\LinqGroupByApp.pdb
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.csproj.AssemblyReference.cache
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.AssemblyInfoInputs.cache
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.AssemblyInfo.cs
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.csproj.CoreCompileInputs.cache
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.dll
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\refint\LinqGroupByApp.dll
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.pdb
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\LinqGroupByApp.genruntimeconfig.cache
+C:\TrialProjects\Linq\LinqGroupByApp\LinqGroupByApp\obj\Debug\net6.0\ref\LinqGroupByApp.dll
